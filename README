@@ -1,0 +1,76 @@
+# US Retail Sales Analysis
+
+## 📌 Project Overview
+This project analyzes US Retail Sales data using Excel, MySQL, and Tableau.
+
+The project covers data cleaning, SQL-based business analysis, KPI creation, and interactive dashboard development.
+
+## 🛠️ Tools & Technologies Used
+
+- *Microsoft Excel* – Data Cleaning & Validation
+- *MySQL Workbench* – Database Creation & SQL Analysis
+- *Tableau Public* – Data Visualization & Dashboard Creation
+- *GitHub* – Project Documentation & Version Control
+
+## 📊 Project Workflow
+
+Excel Data Cleaning  
+↓  
+Cleaned CSV  
+↓  
+MySQL Database  
+↓  
+SQL Analysis  
+↓  
+Tableau Visualization  
+↓  
+Final Dashboards & KPI Cards
+
+## 🔍 Analysis Performed
+
+- Year-wise Sales Analysis
+- Monthly Sales Analysis
+- Industry-wise Sales Analysis
+- Industry-wise Monthly Sales
+- Business-Type Analysis
+- Seasonality Analysis
+- NAICS Code Analysis
+- Outlier Analysis
+- Automotive Industry Analysis
+- Year-over-Year Growth
+- Month-over-Month Growth
+- YTD Sales Analysis
+- Women's vs Men's Clothing Analysis
+
+## 📈 Tableau Dashboards
+
+### Sales Dashboard
+- Year-wise Sales Trend
+- Monthly Sales Trend
+- Industry-wise Total Sales
+- Industry-wise Monthly Sales
+
+### KPI Dashboard
+- Total Sales
+- Average Sales
+- Total Records
+
+## 📁 Project Files
+
+- Project_Task.pdf
+- Cleaned_data.csv
+- Cleaning_Report.xlsx
+- SQL Notebook.sql
+- tableau dashboard.twbx
+
+## 🎯 Objective
+
+The objective of this project is to transform raw retail sales data into meaningful business insights using data cleaning, SQL analysis, and interactive Tableau dashboards.
+
+## ✅ Project Status
+
+*Completed*
+
+## 👨‍💻 Developer
+
+*Name:* [Ritu Raj Singh]
